@@ -34,7 +34,7 @@ fileInput.addEventListener("change", async () => {
     resultsTable.hidden = false;
     for (const s of result.species) {
         const tr = document.createElement("tr");
-        tr.innerHTML = `<td>${s.commonName}</td><td>${s.count}</td><td>${(s.avgConfidence * 100).toFixed(1)}%</td>`;
+        tr.innerHTML = `<td>${s.commonName}</td><td>${s.speciesCode}</td><td>${s.count}</td><td>${(s.avgConfidence * 100).toFixed(1)}%</td>`;
         resultsBody.appendChild(tr);
     }
 });
