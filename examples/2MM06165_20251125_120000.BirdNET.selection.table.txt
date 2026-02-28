@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	51.0	54.0	0	12000.0	Common Raven	comrav	0.8731	P:/Sunny M/Wildlife on Sunny M/Game Cameras/January 2025/audio recordings\2MM06165_20251125_120000.wav	51.0
+2	Spectrogram 1	1	54.0	57.0	0	12000.0	Common Raven	comrav	0.7442	P:/Sunny M/Wildlife on Sunny M/Game Cameras/January 2025/audio recordings\2MM06165_20251125_120000.wav	54.0
+3	Spectrogram 1	1	201.0	204.0	0	12000.0	Mallard	mallar3	0.5137	P:/Sunny M/Wildlife on Sunny M/Game Cameras/January 2025/audio recordings\2MM06165_20251125_120000.wav	201.0

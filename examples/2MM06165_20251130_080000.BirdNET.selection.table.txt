@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	102.0	105.0	0	12000.0	Spotted Towhee	spotow	0.8617	P:/Sunny M/Wildlife on Sunny M/Game Cameras/January 2025/audio recordings\2MM06165_20251130_080000.wav	102.0
+2	Spectrogram 1	1	105.0	108.0	0	12000.0	Spotted Towhee	spotow	0.9808	P:/Sunny M/Wildlife on Sunny M/Game Cameras/January 2025/audio recordings\2MM06165_20251130_080000.wav	105.0
+3	Spectrogram 1	1	108.0	111.0	0	12000.0	Spotted Towhee	spotow	0.9734	P:/Sunny M/Wildlife on Sunny M/Game Cameras/January 2025/audio recordings\2MM06165_20251130_080000.wav	108.0

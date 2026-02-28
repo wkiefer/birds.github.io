@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	0	3	0	12000.0	nocall	nocall	1.0	P:/Sunny M/Wildlife on Sunny M/Game Cameras/January 2025/audio recordings\2MM06165_20251127_090000.wav	0
