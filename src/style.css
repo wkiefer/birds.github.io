@@ -13,6 +13,14 @@ body {
   line-height: 1.5;
 }
 
+.bird-art {
+  font-family: monospace;
+  text-align: center;
+  line-height: 1.2;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+}
+
 h1 {
   font-size: 1.4rem;
   margin-bottom: 1rem;
